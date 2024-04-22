@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WVHmgNXr22p7US9dQfMNENgylPY8V6aWiId+LPQ1vqz8a5F/QR5IluY3SPTBmIqLLZNnmV/6VytwX0HtfGo57Q==",
+  "dgSpecHash": "S5UA/wgNiN92iz+PaI+F4HjKQiYAQ9TxXOiVcfKHLojyDgPqutOPePYSjTxRpr+Jk7ZiMMB+la77mq3LKFQaKg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\3256067\\source\\repos\\Projeto-logistica\\Projeto-logistica\\Projeto-logistica.csproj",
+  "projectFilePath": "C:\\Users\\3256067\\source\\repos\\Projeto-logistica\\Projeto-logistica\\Backend\\Projeto-logistica.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\3256067\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.3\\microsoft.aspnetcore.openapi.8.0.3.nupkg.sha512",
     "C:\\Users\\3256067\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
